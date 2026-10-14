@@ -94,7 +94,7 @@ public class Main {
 
     private static void imprimirBanner() {
         System.out.println("================================================================================");
-        System.out.println("   🐶 CANSTYLING - SISTEMA DE GESTIÓN INTEGRAL PARA PELUQUERÍA CANINA 🐾       ");
+        System.out.println("   CANSTYLING - SISTEMA DE GESTIÓN INTEGRAL PARA PELUQUERÍA CANINA 🐾       ");
         System.out.println("   SENA ADSO | Evidencia: GA7-220501096-AA2-EV01 - Módulos Java & JDBC        ");
         System.out.println("   Aprendiz: Omar Ulpiano Molina Malaver | Instructor: Adonay Sánchez Vertel ");
         System.out.println("================================================================================");
@@ -102,14 +102,14 @@ public class Main {
 
     private static void mostrarMenuPrincipal() {
         System.out.println("\n=========================== MENÚ PRINCIPAL ===========================");
-        System.out.println(" 1. 🔌 Probar Conexión a Base de Datos MySQL (JDBC)");
-        System.out.println(" 2. 👤 Gestión de Clientes (CRUD y Soporte Multi-Teléfono)");
-        System.out.println(" 3. 🐕 Gestión de Mascotas y Fichas Clínicas");
-        System.out.println(" 4. 📅 Gestión de Citas y Turnos (Seguridad y Anti-Citas Fantasma)");
-        System.out.println(" 5. 🖼️ Consultar Álbum Digital de Mascota mediante Token Anti-IDOR");
-        System.out.println(" 6. 🔐 Autenticación / Login por Correo Electrónico con Validación OTP");
-        System.out.println(" 7. 🚀 Ejecutar Demostración Integral Automatizada (Test de Componentes)");
-        System.out.println(" 8. 🚪 Salir");
+        System.out.println(" 1. Probar Conexión a Base de Datos MySQL (JDBC)");
+        System.out.println(" 2. Gestión de Clientes (CRUD y Soporte Multi-Teléfono)");
+        System.out.println(" 3. Gestión de Mascotas y Fichas Clínicas");
+        System.out.println(" 4. Gestión de Citas y Turnos (Seguridad y Anti-Citas Fantasma)");
+        System.out.println(" 5. Consultar Álbum Digital de Mascota mediante Token Anti-IDOR");
+        System.out.println(" 6. Autenticación / Login por Correo Electrónico con Validación OTP");
+        System.out.println(" 7. Ejecutar Demostración Integral Automatizada (Test de Componentes)");
+        System.out.println(" 8. Salir");
         System.out.println("======================================================================");
     }
 
