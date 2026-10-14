@@ -1,0 +1,20 @@
+# Archivos compilados y empaquetados
+target/
+*.class
+*.jar
+*.war
+
+# Configuracion de Entorno y Credenciales Sensibles
+.env
+*.env.local
+
+# Configuracion de IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Logs del sistema
+*.log
